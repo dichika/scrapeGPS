@@ -1,0 +1,9 @@
+Package: scrapeGPS
+Type: Package
+Title: GPS get daze!!!!!
+Version: 0.1
+Date: 2015-03-07
+Author: TOKOROSAWA Yoshio
+Description: Get GPS data all over the world
+License: MIT
+Imports: rvest, V8
